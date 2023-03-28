@@ -1,0 +1,1 @@
+define(["require","exports","knockout","./appController","ojs/ojknockout","ojs/ojmodule","ojs/ojnavigationlist"],(function(require,o,t,e){"use strict";return class{static init(){function o(){t.applyBindings(e.default,document.getElementById("globalBody"))}document.body.classList.contains("oj-hybrid")?document.addEventListener("deviceready",o):o()}}}));

@@ -1,0 +1,13 @@
+{
+  "name": "fitself-app",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "css/images/icon-xxhdpi.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}

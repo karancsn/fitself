@@ -1,0 +1,118 @@
+{
+    "effectiveDate": "13th February 2023",
+    "items": [
+        {
+            "category": "Weight Management",
+            "products": [
+{"sku":"1247","quantity":500,"unit":"gms","packSize":1,"volumePoints":21.75,"mrp":2276,"price25":1783,"price35":1586,"price42":1448,"price50":1291,"name":"Formula 1 - Nutritional Shake Mix","flavour":"Vanilla"},
+{"sku":"1248","quantity":500,"unit":"gms","packSize":1,"volumePoints":21.75,"mrp":2276,"price25":1783,"price35":1586,"price42":1448,"price50":1291,"name":"Formula 1 - Nutritional Shake Mix","flavour":"Chocolate"},
+{"sku":"1249","quantity":500,"unit":"gms","packSize":1,"volumePoints":21.75,"mrp":2276,"price25":1783,"price35":1586,"price42":1448,"price50":1291,"name":"Formula 1 - Nutritional Shake Mix","flavour":"Mango"},
+{"sku":"1269","quantity":500,"unit":"gms","packSize":1,"volumePoints":21.75,"mrp":2276,"price25":1783,"price35":1586,"price42":1448,"price50":1291,"name":"Formula 1 - Nutritional Shake Mix","flavour":"Orange Cream"},
+{"sku":"1239","quantity":500,"unit":"gms","packSize":1,"volumePoints":21.75,"mrp":2276,"price25":1783,"price35":1586,"price42":1448,"price50":1291,"name":"Formula 1 - Nutritional Shake Mix","flavour":"Strawberry"},
+{"sku":"4114","quantity":500,"unit":"gms","packSize":1,"volumePoints":21.75,"mrp":2276,"price25":1783,"price35":1586,"price42":1448,"price50":1291,"name":"Formula 1 - Nutritional Shake Mix","flavour":"Kulfi"},
+{"sku":"082K","quantity":500,"unit":"gms","packSize":1,"volumePoints":21.75,"mrp":2276,"price25":1783,"price35":1586,"price42":1448,"price50":1291,"name":"Formula 1 - Nutritional Shake Mix","flavour":"Banana Caramel"},
+{"sku":"154K","quantity":500,"unit":"gms","packSize":1,"volumePoints":21.75,"mrp":2276,"price25":1783,"price35":1586,"price42":1448,"price50":1291,"name":"Formula 1 - Nutritional Shake Mix","flavour":"Rose Kheer"},
+{"sku":"1233","quantity":200,"unit":"gms","packSize":1,"volumePoints":11.50,"mrp":1352,"price25":1059,"price35":942,"price42":860,"price50":766,"name":"Personalized Protein Powder","flavour":""},
+{"sku":"1569","quantity":400,"unit":"gms","packSize":1,"volumePoints":22.50,"mrp":2594,"price25":2033,"price35":1808,"price42":1651,"price50":1471,"name":"Personalized Protein Powder","flavour":""},
+{"sku":"183K","quantity":500,"unit":"gms","packSize":1,"volumePoints":6.45,"mrp":681,"price25":597,"price35":564,"price42":540,"price50":513,"name":"ShakeMate","flavour":""}
+            ]
+        },
+        {
+            "category": "Eye Health",
+            "products": [
+{"sku":"0064","quantity":30,"unit":"capsules","packSize":1,"volumePoints":19.25,"mrp":2012,"price25":1577,"price35":1403,"price42":1281,"price50":1142,"name":"Ocular Defense","flavour":""}
+            ]
+        },
+        {
+            "category": "Men's Health",
+            "products": [
+{"sku":"175K","quantity":60,"unit":"tablets","packSize":1,"volumePoints":34.75,"mrp":3559,"price25":2789,"price35":2481,"price42":2266,"price50":2020,"name":"Male Factor +","flavour":""}
+            ]
+        },
+        {
+            "category": "Women's Health",
+            "products": [
+{"sku":"127K","quantity":30,"unit":"tablets","packSize":1,"volumePoints":12.45,"mrp":1298,"price25":1017,"price35":905,"price42":826,"price50":736,"name":"Woman's Choice","flavour":""}
+            ]
+        },
+        {
+            "category": "Brain Health",
+            "products": [
+{"sku":"109K","quantity":60,"unit":"tablets","packSize":1,"volumePoints":15.10,"mrp":1529,"price25":1197,"price35":1065,"price42":973,"price50":867,"name":"Vritilife Brain Health","flavour":""}
+            ]
+        },
+        {
+            "category": "Immune Health",
+            "products": [
+{"sku":"115K","quantity":60,"unit":"tablets","packSize":1,"volumePoints":15.80,"mrp":1596,"price25":1250,"price35":1112,"price42":1016,"price50":905,"name":"Vritilife Immune Health","flavour":""}
+            ]
+        },
+        {
+            "category": "Energy",
+            "products": [
+{"sku":"1291","quantity":50,"unit":"gms","packSize":1,"volumePoints":7.80,"mrp":848,"price25":664,"price35":590,"price42":539,"price50":480,"name":"Afresh Energy Drink Mix","flavour":"Ginger"},
+{"sku":"1294","quantity":50,"unit":"gms","packSize":1,"volumePoints":7.80,"mrp":848,"price25":664,"price35":590,"price42":539,"price50":480,"name":"Afresh Energy Drink Mix","flavour":"Elaichi"},
+{"sku":"1295","quantity":50,"unit":"gms","packSize":1,"volumePoints":7.80,"mrp":848,"price25":664,"price35":590,"price42":539,"price50":480,"name":"Afresh Energy Drink Mix","flavour":"Lemon"},
+{"sku":"1296","quantity":50,"unit":"gms","packSize":1,"volumePoints":7.80,"mrp":848,"price25":664,"price35":590,"price42":539,"price50":480,"name":"Afresh Energy Drink Mix","flavour":"Peach"},
+{"sku":"1238","quantity":50,"unit":"gms","packSize":1,"volumePoints":7.80,"mrp":848,"price25":664,"price35":590,"price42":539,"price50":480,"name":"Afresh Energy Drink Mix","flavour":"Cinnamon"},
+{"sku":"230K","quantity":40,"unit":"gms","packSize":1,"volumePoints":7.80,"mrp":848,"price25":664,"price35":590,"price42":539,"price50":480,"name":"Afresh Energy Drink Mix","flavour":"Kashmiri Kahwa"},
+{"sku":"080K","quantity":50,"unit":"gms","packSize":1,"volumePoints":7.80,"mrp":848,"price25":674,"price35":605,"price42":557,"price50":502,"name":"Afresh Energy Drink Mix","flavour":"Tulsi (Basil)"}
+            ]
+        },
+        {
+            "category": "Sports Nutrition",
+            "products": [
+{"sku":"1458","quantity":20,"unit":"sachets","packSize":1,"volumePoints":14.05,"mrp":1709,"price25":1398,"price35":1273,"price42":1186,"price50":1087,"name":"H24 Hydrate","flavour":"Orange"},
+{"sku":"031K","quantity":10,"unit":"sachets","packSize":1,"volumePoints":24.70,"mrp":2731,"price25":2173,"price35":1950,"price42":1793,"price50":1615,"name":"H24 Rebuild Strength","flavour":"Chocolate"}
+            ]
+        },
+        {
+            "category": "Skin Health",
+            "products": [
+{"sku":"046K","quantity":30,"unit":"sachets","packSize":1,"volumePoints":38.65,"mrp":4082,"price25":3328,"price35":3027,"price42":2816,"price50":2575,"name":"HN - Skin Booster","flavour":"Orange"}
+            ]
+        },
+        {
+            "category": "Children Health",
+            "products": [
+{"sku":"1279","quantity":200,"unit":"gms","packSize":1,"volumePoints":9.60,"mrp":1164,"price25":912,"price35":811,"price42":741,"price50":660,"name":"DinoShake Nutritional Children's Drink Mix","flavour":"Chocolicious"},
+{"sku":"1236","quantity":200,"unit":"gms","packSize":1,"volumePoints":9.60,"mrp":1164,"price25":912,"price35":811,"price42":741,"price50":660,"name":"DinoShake Nutritional Children's Drink Mix","flavour":"Strawberry"}
+            ]
+        },
+        {
+            "category": "Digestive Health",
+            "products": [
+{"sku":"1278","quantity":90,"unit":"tablets","packSize":1,"volumePoints":15.75,"mrp":1709,"price25":1339,"price35":1191,"price42":1088,"price50":969,"name":"Activated Fiber","flavour":""},
+{"sku":"2865","quantity":200,"unit":"gms","packSize":1,"volumePoints":22.95,"mrp":2672,"price25":2094,"price35":1862,"price42":1701,"price50":1516,"name":"Active Fiber Complex","flavour":""},
+{"sku":"1293","quantity":60,"unit":"capsules","packSize":1,"volumePoints":9.40,"mrp":1106,"price25":866,"price35":771,"price42":704,"price50":627,"name":"Aloe Plus","flavour":""},
+{"sku":"0006","quantity":500,"unit":"ml","packSize":1,"volumePoints":24.95,"mrp":2815,"price25":2205,"price35":1962,"price42":1791,"price50":1597,"name":"Herbal Aloe Concentrate","flavour":""},
+{"sku":"025K","quantity":30,"unit":"sachets","packSize":1,"volumePoints":21.95,"mrp":2306,"price25":1848,"price35":1664,"price42":1536,"price50":1389,"name":"Simply Probiotic","flavour":""},
+{"sku":"186K","quantity":60,"unit":"tablets","packSize":1,"volumePoints":11.25,"mrp":1138,"price25":891,"price35":793,"price42":724,"price50":645,"name":"Vritilife Triphala","flavour":""}
+            ]
+        },
+        {
+            "category": "Bone & Joint Health",
+            "products": [
+{"sku":"0020","quantity":60,"unit":"tablets","packSize":1,"volumePoints":10.25,"mrp":1256,"price25":984,"price35":875,"price42":799,"price50":712,"name":"Calcium","flavour":""},
+{"sku":"0555","quantity":90,"unit":"tablets","packSize":1,"volumePoints":20.90,"mrp":2563,"price25":2009,"price35":1787,"price42":1632,"price50":1454,"name":"Joint Support","flavour":""}
+            ]
+        },
+        {
+            "category": "Cardiovascular Health",
+            "products": [
+{"sku":"2637","quantity":300,"unit":"gms","packSize":1,"volumePoints":75,"mrp":7442,"price25":5832,"price35":5188,"price42":4738,"price50":4223,"name":"Niteworks","flavour":"Lemon"},
+{"sku":"0065","quantity":60,"unit":"capsules","packSize":1,"volumePoints":25.75,"mrp":2785,"price25":2182,"price35":1941,"price42":1773,"price50":1580,"name":"Herbalifeline","flavour":""},
+{"sku":"051K","quantity":15,"unit":"sachets","packSize":1,"volumePoints":19.55,"mrp":2342,"price25":1909,"price35":1736,"price42":1616,"price50":1477,"name":"Beta Heart","flavour":"Vanilla"}
+            ]
+        },
+        {
+            "category": "Enhancers",
+            "products": [
+{"sku":"1232","quantity":90,"unit":"tablets","packSize":1,"volumePoints":19.95,"mrp":2091,"price25":1639,"price35":1458,"price42":1331,"price50":1186,"name":"Multivitamin Mineral & Herbal","flavour":""},
+{"sku":"3123","quantity":60,"unit":"tablets","packSize":1,"volumePoints":21.95,"mrp":2313,"price25":1812,"price35":1612,"price42":1472,"price50":1312,"name":"Cell Activator","flavour":""},
+{"sku":"0111","quantity":90,"unit":"tablets","packSize":1,"volumePoints":15.75,"mrp":1780,"price25":1394,"price35":1240,"price42":1133,"price50":1009,"name":"Cell-U-Loss Advanced","flavour":""},
+{"sku":"0077","quantity":90,"unit":"tablets","packSize":1,"volumePoints":32.95,"mrp":3584,"price25":2808,"price35":2498,"price42":2281,"price50":2033,"name":"Herbal Control","flavour":""}
+           ]
+        }
+    ]
+}
