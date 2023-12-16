@@ -6,42 +6,32 @@
         Application specific styles
 */
 
-/* Hides the content area until we are ready to display after paddings have been adjusted. 
-    oj-complete is a marker class that is applied by the appController 
-    after adjusting the content area. */
-.oj-applayout-content:not(.oj-complete) {
-  visibility: hidden;
-}
-
-.demo-app-name {
-  padding-top: 40px;
-  color: #979899;
-}
-
 .sendOffScreen {
-  position: absolute;
-  left: -10000px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
 }
 
 .cart-data-subtext {
-  font-variant-caps: small-caps;
+    font-variant-caps: small-caps;
 }
+
 .cart-table-header-row {
-  font-weight: 600;
-  font-variant-caps: small-caps;
+    font-weight: 600;
+    font-variant-caps: small-caps;
 }
+
 .valign-top {
-  vertical-align: top !important;
+    vertical-align: top !important;
 }
 
 .hide {
-  display: none;
+    display: none;
 }
 
 .prod-input-number {
-  max-width: 135px;
+    max-width: 135px;
 }
